@@ -1,0 +1,200 @@
+Everything:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+WXWorkLocal:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+WindowTop:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+WorkTask:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+bqbh:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+chrome:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+cut:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+dingshitixing:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+explorer:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+get_web_data:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+jxt:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+pdf2docx:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+plan2dwglpt:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+run:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+test:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+tingdian:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+warning:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '15'
+  minute: '30'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+web_deal:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+zhanshi:
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
+"\u6211\u662F\u8F6F\u4EF6":
+  auto_run: false
+  day: '0'
+  day_of_week: '0'
+  hour: '0'
+  minute: '0'
+  month: '0'
+  second: '0'
+  week: '0'
+  year: '0'
